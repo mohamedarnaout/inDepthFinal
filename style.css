@@ -1,0 +1,18 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  box-sizing: border-box;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+header {
+  width: 50px;
+}
+.header_photo {
+  width: 800px;
+}
